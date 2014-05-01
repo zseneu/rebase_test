@@ -1,5 +1,7 @@
 #how to remove the novel excerpts you accidentally checked into your work github repository
 
+###back on the master branch my changes are not visible
+
 I find it hard to imagine that I am the only web developer out there who also spends his pomodoro time writing lists, essays and creative fiction. If like me your git workflow consists of a lot of ```git add .``` when you are under pressure for a fix or simply building out the early stages of a project with no set structure, then it's highly likely you have checked in a file by mistake.
 
 Usually this is not a problem, even if you don't notice until several commits later. Junk files can be removed, and the next time you run add -A your file will be removed from the working tree. 
